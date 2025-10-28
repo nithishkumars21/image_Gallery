@@ -1,5 +1,5 @@
-# CodeAlpha_image_Gallery
-https://github.com/nithishkumars21/CodeAlpha_image_Gallery.git
+# image_Gallery
+https://github.com/nithishkumars21/image_Gallery.git
 
 
 An interactive Image Gallery built using HTML, CSS, and JavaScript.
